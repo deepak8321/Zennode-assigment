@@ -14,7 +14,7 @@ Being a software developer allows me to combine creativity and logic to build th
    - *Why:* Docker has revolutionized the way software is deployed and managed by introducing containerization. This tool allows developers to package applications and their dependencies into lightweight, portable containers. Docker's efficiency, scalability, and consistency in application deployment have inspired a shift towards containerized microservices architecture.
 
 3. **Visual Studio Code:**
-   - *Why:* Its simplicity and powerful features make coding enjoyable and productive.
+   - *Why:* Its simplicity and powerful features make coding enjoyable and productive
 
 ## Top 3 Organizations I'd Like to Join
 
