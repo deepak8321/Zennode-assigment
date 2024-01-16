@@ -12,7 +12,7 @@
 This project includes a console-based shopping cart program implemented in JavaScript. The program allows users to input quantities of products and choose whether each product is wrapped as a gift. It calculates the subtotal, applies various discount rules, and factors in shipping and gift wrap fees. The solution is designed to be simple, efficient, and adheres to the specified requirements.
 
 #### JavaScript Solution:
-- [shopping_cart.js](https://github.com/your-username/zennode-hiring/blob/main/shopping_cart.js)
+- [task.js](https://github.com/your-username/zennode-hiring/blob/main/shopping_cart.js)
 
 ## Task 2 - Developer Information
 
